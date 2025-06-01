@@ -4,7 +4,7 @@ This guide provides a complete walkthrough for setting up and deploying a static
 
 ---
 
-## Prerequisites
+## Requirements
 
 Before you begin, ensure the following:
 

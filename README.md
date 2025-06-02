@@ -135,7 +135,7 @@ Install the following elements
 
 ---
 
-### Step 10: Destroy Infrastructure
+### Step 7: Destroy Infrastructure
 
 To delete what has been done:
 
